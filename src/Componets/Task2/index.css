@@ -1,0 +1,15 @@
+.animal__wrapper{
+    width: 350px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 10px auto;
+}
+.animal__wrapper img{
+    width: 100%;
+    object-fit: cover;
+}
+.animal__wrapper h4{
+    text-align: center;
+    margin-top: 15px;
+}

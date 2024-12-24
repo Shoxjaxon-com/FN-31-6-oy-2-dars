@@ -1,0 +1,14 @@
+.task8__wrapper{
+    border: 1px solid aqua;
+    width: 1200px;
+    margin: 50px auto;
+    background-color: aqua;
+    padding: 25px;
+    border-radius: 15px;
+}
+.task8__wrapper li{
+    text-align: center;
+    list-style: none; 
+    display: inline-block;
+    margin-left: 10px;
+}

@@ -1,0 +1,10 @@
+.task__wrapper{
+    text-align: center;
+    border: 1px solid black;
+    width: 300px;
+    border-radius: 15px;
+    margin: 15px auto;
+}
+.task__wrapper ul{
+    list-style: none;
+}
