@@ -10,14 +10,10 @@ import Task4 from "./Componets/Task4";
 import Task5 from "./Componets/Task5";
 import Task6 from "./Componets/Task6";
 import Task8 from "./Componets/Task8";
+import Task3 from "./Componets/Task3";
+import Task7 from "./Componets/Task7";
 function App() {
-  const colors = [
-    { name: 'Qizil', color: 'red' },
-    { name: 'Yashil', color: 'green' },
-    { name: 'Moviy', color: 'blue' },
-    { name: 'Sariq', color: 'yellow' },
-    { name: 'To\'q qizil', color: 'maroon' },
-  ];
+ 
   return (
     <div>
       <Task
@@ -32,6 +28,8 @@ function App() {
       <Task2 images={fil} title="Fil 🐘" />
       <Task2 images={sher} title="Sher 🦁" />
       <Task2 images={qush} title="Qush 🐦" />
+
+          <Task3 />
 
       <Task4 
       name1 = 'Dushanba'
@@ -56,6 +54,7 @@ function App() {
       toshkent = 'O`zbekiston'
       />
 
+        <Task7 />
 
       <Task8 
       home = 'Bosh sahifa'

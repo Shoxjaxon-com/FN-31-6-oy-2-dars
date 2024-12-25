@@ -1,0 +1,50 @@
+.fasl-wrap {
+    max-width: 300px;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.bahor {
+    border: 1px solid black;
+    border-radius: 15px;
+    transition: 0.4s;
+    margin-bottom: 15px;
+}
+.bahor:hover {
+    background-color: green;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.yoz {
+    border: 1px solid black;
+    border-radius: 15px;
+    transition: 0.4s;
+    margin-bottom: 15px;
+}
+.yoz:hover {
+    background-color: yellow;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.kuz {
+    border: 1px solid black;
+    border-radius: 15px;
+    transition: 0.4s;
+    margin-bottom: 15px;
+}
+.kuz:hover {
+    background-color: orange;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+.qish {
+    border: 1px solid black;
+    border-radius: 15px;
+    transition: 0.4s;
+    margin-bottom: 15px;
+}
+.qish:hover {
+    background-color: rgb(68, 184, 223);
+    border-radius: 15px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,46 @@
+.task3__wrapper{
+    margin: 50px auto;
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+}
+.qizil {
+    border: 1px solid black;
+    background-color: red;
+    max-width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    width: 70px;
+    height: 50px;
+    padding: 10px;
+}
+.yashil {
+    border: 1px solid black;
+    background-color: green;
+    max-width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    width: 80px;
+    height: 50px;
+    padding: 10px;
+}
+.kok {
+    border: 1px solid black;
+    background-color: rgb(75, 75, 244);
+    max-width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    width: 70px;
+    height: 50px;
+    padding: 10px;
+}
+.sariq {
+    border: 1px solid black;
+    background-color: yellow;
+    max-width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    width: 80px;
+    height: 50px;
+    padding: 10px;
+}
